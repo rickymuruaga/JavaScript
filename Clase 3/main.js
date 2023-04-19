@@ -68,21 +68,21 @@ switch(valor){
 }
 */
 
-// let moneda = "usd";
-// switch(moneda){
-//     case "ars":
-//     console.log("Moneda argentina");
-//     break;
+// // let moneda = "usd";
+// // switch(moneda){
+// //     case "ars":
+// //     console.log("Moneda argentina");
+// //     break;
 
-//     case "uru":
-//     console.log("Moneda uruguaya");
-//     break;
+// //     case "uru":
+// //     console.log("Moneda uruguaya");
+// //     break;
 
-//     case "cpl":
-//      console.log("moneda chilena");
-//      break;
+// //     case "cpl":
+// //      console.log("moneda chilena");
+// //      break;
      
-//      default:
-//         console.log("moneda desconocida");
-//         break;
-// }
+// //      default:
+// //         console.log("moneda desconocida");
+// //         break;
+// // }
