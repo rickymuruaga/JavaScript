@@ -31,4 +31,4 @@
 
 let numero = parseInt(prompt("¿en que año naciste?"));
 let resta = 2023 - numero;
-alert("ahora tienes " + resta + "años");
+alert("ahora tienes " + resta + " años");
