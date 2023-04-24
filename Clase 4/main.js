@@ -4,6 +4,7 @@
 // }
 // saludar("Bienvenido", "Ricky");
 
-function sumar(numero1, numero2){
-    return numero1  + numero2;
+function info(nombre, edad){
+    return 
 }
+console.log();
