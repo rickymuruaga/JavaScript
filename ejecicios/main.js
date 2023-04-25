@@ -23,11 +23,32 @@
 
 */
 
-let nombre = "Ricky";
-let apellido = "Muruaga";
-let direccion = "Tucuman"
-let pais = "Argentina";
+// let nombre = "Ricky";
+// let apellido = "Muruaga";
+// let direccion = "Tucuman"
+// let pais = "Argentina";
 
-console.log(``);
+// console.log(``);
 
  
+let nombre = prompt("ingrese su nombre");
+let apellido = prompt ("ingrese su apellido");
+let edad = prompt("ingrese su edad");
+let direccion= prompt ("ingrese su direccion");
+let nacionalidad= prompt ("ingrese su nacionalidad")
+let numeroCarnet = "B47U89RE243"
+
+let carnet = 
+`Carnet de conducir de: ${nombre} ${apellido}
+edad: ${edad}
+nacionalidad: ${nacionalidad}
+direccion: ${direccion}
+numero de carnet : ${numeroCarnet}`;
+
+if(edad >= 18){
+    console.log (carnet);
+    alert(carnet);
+}else{
+    console.log(`carnet denegado`);
+    alert(`carnet denegado`);
+}
