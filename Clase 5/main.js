@@ -21,6 +21,12 @@ console.log(persona["nombre"]);
 
   */
 
+ function persona(nombre,edad,ciudad){
+    this.nombre = nombre;
+    this.edad = edad;
+    this.ciudad = ciudad;
+ }
+ 
  let persona1 = new persona("Ricky", 28, "Tucuman");
  let persona2 = new persona("andres", 25, "colombia");
 
