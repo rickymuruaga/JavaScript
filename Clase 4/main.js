@@ -22,7 +22,7 @@ function nombreFuncion(){
 
 // multiplicacion(2, 4)
 
-function calculadora(num1,num2,operacion){
+/* function calculadora(num1,num2,operacion){
  switch(operacion){
       case "+":
        return num1+num2;
@@ -53,4 +53,15 @@ let num2 = parseInt(prompt("ingrese numero 2"));
 
 
 let resultado = calculadora(num1, num2, operacion);
-alert(`el resultado de ${num1} ${operacion} ${num2} = ${resultado}`);
+alert(`el resultado de ${num1} ${operacion} ${num2} = ${resultado}`); */
+
+let nombre = "juan";
+
+function saludar(){
+ let nombre ="Ricky";
+ console.log(nombre);
+
+}
+console.log(nombre);
+saludar();
+console.log(nombre);
