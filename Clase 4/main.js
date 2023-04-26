@@ -55,7 +55,7 @@ let num2 = parseInt(prompt("ingrese numero 2"));
 let resultado = calculadora(num1, num2, operacion);
 alert(`el resultado de ${num1} ${operacion} ${num2} = ${resultado}`); */
 
-let nombre = "juan";
+/* let nombre = "juan";
 
 function saludar(){
  let nombre ="Ricky";
@@ -63,5 +63,4 @@ function saludar(){
 
 }
 console.log(nombre);
-saludar();
-console.log(nombre);
+saludar(); */
