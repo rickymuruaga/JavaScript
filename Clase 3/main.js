@@ -11,16 +11,16 @@ despues de poner el bucle "for", siempre al arrancar desde 0 poner la variable l
 
 */
 
-// for(let i = 0; i <100; i++){
-//     console.log("Hola");
-// }
+// // // for(let i = 0; i <100; i++){
+// // //     console.log("Hola");
+// // // }
 
-// let numero = parseInt(prompt("ingrese un numero"));
+// // // let numero = parseInt(prompt("ingrese un numero"));
 
-// for(let i = 1; i <=10; i++){
-//     let resultado = numero * i;
-//     alert(`${numero} * ${i} = ${resultado} `);
-// } 
+// // // for(let i = 1; i <=10; i++){
+// // //     let resultado = numero * i;
+// // //     alert(`${numero} * ${i} = ${resultado} `);
+// // // } 
 
 // numero * 1
 // numero * 2
